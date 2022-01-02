@@ -1,0 +1,126 @@
+[
+    {
+      "name": "BMW M 1000 rr",
+      "brand": "BMW",
+      "generic": "Sport",
+      "description": "The M 1000 RR is based on the S 1000 RR but with some tweaks to the engine. It's powered by a 999cc liquid-cooled in-line four-cylinder motor with variable camshaft control and makes a blistering 214PS of power at 14,500rpm and 113 Nm of torque at 11,000rpm. It's mated to a 6-speed gearbox.",
+      "image": "https://imgd.aeplcdn.com/476x268/bw/models/bmw-m-1000-rr-standard20210320230911.jpg",
+      "price": 36995
+    },
+    {
+      "name": "THE BMW K 1600 GTL",
+      "brand": "BMW",
+      "generic": "Tour",
+      "description": "The K 1600 GT represents the agile, dynamic variant of the six-cylinder lineup, while the K 1600 GTL with its more comfortable ergonomics and standard top case focuses more on longer distance riding. The K 1600 B provides low-slung “streamliner” bagger styling accompanied by its moto “The Spirit of the Open Road”",
+      "image": "https://www.cycleworld.com/resizer/L8BbQ_NwaC_fyg8Jr57AE9HWDd0=/arc-photo-octane/arc3-prod/public/SM7AHX5XNFC53CPNFJ24WSXO2A.jpg",
+      "price": 26885
+    },
+    {
+      "name": "THE BMW G 310 R",
+      "brand": "BMW",
+      "generic": "Roadster",
+      "description": "BMW G 310 R is a street bike available at a starting price of Rs. ... The BMW G 310 R is powered by 313cc BS6 engine which develops a power of 33.52 bhp and a torque of 28 Nm. With both front and rear disc brakes, BMW G 310 R comes up with anti-locking braking system.",
+      "image": "https://ic1.maxabout.us/autos/tw_india//B/2020/12/bmw-g310r-style-sport-edition.jpg",
+      "price": 5295
+    },
+    { 
+      "name": "THE NEW BMW R 18.",
+      "brand": "BMW",
+      "generic": "Heritage",
+      "description": "The 1,802 cc two-cylinder boxer engine of the R 18 is the highest displacement boxer that BMW has ever built. It delivers a maximum torque of 116 lbs-ft at 3,000 rpm. At 4,750 rpm, the Big Boxer delivers 91 hp combining its core tradition with modern technology for pure emotion on the road.",
+      "image": "https://motorcycles.news/wp-content/uploads/2020/10/P90403292_highRes-Kopie-1030x728.jpg",
+      "price": 15995
+    },
+    {
+      "name": "THE BMW G 310 GS",
+      "brand": "BMW",
+      "generic": "Adventure",
+      "description": "The BMW G 310 GS is powered by 313cc BS6 engine which develops a power of 33.52 bhp and a torque of 28 Nm. With both front and rear disc brakes, BMW G 310 GS comes up with anti-locking braking system. This G 310 GS bike weighs 175 kg and has a fuel tank capacity of 11 liters.",
+      "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20190708052155_bmw-3.jpg",
+      "price": 6195 
+    },
+    {
+      "name": "THE BMW CE 04",
+      "brand": "BMW",
+      "generic": "Urban Mobility",
+      "description": "The BMW CE 04 is our new electric star for the city. It combines an e-drive with emotion and motorcycling fun. The latest technology, and the best battery cells, which also provide power in the BMW iX. Just like the CE 04, all future new BMW Motorrad models for urban mobility will be pure electric.”",
+      "image": "https://cdn.motor1.com/images/mgl/POzRK/s1/bmw-ce-04---avantgarde-style-right-side.jpg",
+      "price":  14300
+    },
+    {
+      "name": "ROYAL ENFIELD CLASSIC 350",
+      "brand": "Royal Enfield",
+      "generic": "Classic",
+      "description": "The Classic Signals 350 is the first Royal Enfield motorcycle to feature a dual-channel ABS (anti-lock braking system) as standard. It is also expected that the company will update its 500cc motorcycles and Himalayan with an ABS as well bu next month. The Signals 350 comes with disc brakes at both ends.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/styles/photo_slider_753x543/public/images/photogallery/202005/Gunmetal_Grey_1_IT_1588937486684.png?Z3iilY5LR4V_ycGWhb4oNHRi7ZxpQu9.",
+      "price":  2853
+    },
+    {
+      "name": "royal enfield interceptor 650 ",
+      "brand": "Royal Enfield",
+      "generic": "interceptor",
+      "description": "The Royal Enfield Interceptor 650 comes with a twin-pod analogue instrument cluster with a digital inset that shows the odometer and dual tripmeter readings, along with the fuel level. The lighting system is all-bulb. We’d have liked it if Royal Enfield had included at least an LED tail lamp and a gear position indicator as well. As far as safety is concerned, the bike gets a dual-channel ABS as standard. For a more relaxed riding stance, it comes with an easy-to-reach braced handlebar, mid-set footpegs, and a bench seat.",
+      "image": "https://www.masquemotostenerife.com/wp-content/uploads/2018/11/side-view-4.png",
+      "price":  3727
+    },
+    {
+      "name": "NINJA 650",
+      "brand": "Kawasaki",
+      "generic": "Sport",
+      "image": "https://ic1.maxabout.us/autos/tw_india//2/2020/5/2020-kawasaki-ninja-650-in-lime-green-color.jpg",
+      "description": "Built to embody Ninja® sports bike lineage, the Ninja® 650 motorcycle comes packed with a sporty 649cc engine, next-level technology and sharp styling. Unmistakable sport performance is met with an upright riding position for exciting daily commutes, while a supreme level of attitude reminds you of its legendary heritage.",
+      "price":  8499
+    },
+    {
+      "name": "NINJA® ZX™-6R",
+      "brand": "Kawasaki",
+      "generic": "Supersport",
+      "image": "https://motobike.in/wp-content/uploads/2020/11/Kawasaki-Ninja-ZX-6R-Lime-Green-Ebony-and-Metallic-Graphite-Grey.jpg",
+      "description": "Rule the track and run the streets with legendary Ninja® performance. The Ninja® ZX™-6R motorcycle boasts a potent 636cc engine, advanced electronics, and a lightweight chassis. The “636” has been optimized for both street and the track, offering an exhilarating experience in a wide range of riding situations.",
+      "price":  10799
+    },
+    {
+      "name": "NINJA H2®R",
+      "brand": "Kawasaki",
+      "generic": "Hypersport",
+      "image": "https://www.cycleworld.com/resizer/SrSbS9tpHyO8uahTd9mrtfMsZU4=/arc-photo-octane/arc3-prod/public/Z6SHRDJOCZHA3JVBJS2TGBYIIY.jpg",
+      "description": "The development of the Ninja H2®R motorcycle goes beyond the boundaries of any other Kawasaki motorcycle. Born through the unprecedented collaboration between multiple divisions within the Kawasaki Heavy Industries, Ltd. (KHI) organization, the world's only limited production supercharged hypersport model represents the unbridled pinnacle of Kawasaki engineering, with astonishing acceleration and mind-bending top speed suitable only for the track.",
+      "price":  56500
+    },
+    {
+      "name": "NINJA H2® SX SE",
+      "brand": "Kawasaki",
+      "generic": "Hypersport",
+      "image": "https://cdn.motor1.com/images/mgl/wlo37o/s3/2022-kawasaki-ninja-h2-sx-se---main-no-bags.jpg",
+      "description": "The new Kawasaki Ninja H2® SX is Kawasaki's most advanced sport tourer ever, representing the ultimate integration of the highest standards of technology, performance, and riding comfort. New dedicated features like the Advanced Rider Assist System (ARAS) provide real-world benefits including Adaptive Cruise Control (ACC) and Blind Spot Detection (BSD). Integrated into the new 6.5 TFT color instrumentation is Kawasaki's SPIN infotainment system. Experience the exhilaration of the unique balanced supercharged engine for both long distance touring and daily riding.The best technology becomes a natural extension of ourselves and sets us free. Ninja H2® SX – ENGINEERED TO BE FREE.",
+      "price":  27500
+    }
+]
+
+
+[
+  {
+    "name": "Jhon Doe",
+    "rating": 4.1,
+    "state": "Great Products",
+    "description": "I just loved the Bike. Thank you."
+  },
+  {
+    "name": "Alex hale",
+    "rating": 4.4,
+    "state": "Stable Products",
+    "description": "Loved their service."
+  },
+  {
+    "name": "Jhon Park",
+    "rating": 4.8,
+    "state": "Good Service",
+    "description": "Definitely, I'll be recomanding you guys."
+  },
+  {
+    "name": "Doe Hopkins",
+    "rating": 5,
+    "state": "Pleased",
+    "description": "I'll be comming back soon"
+  }
+]
